@@ -4,7 +4,7 @@
 ======================================*/
 
 @media only screen and (max-width: 959px) {
-body:before .bg-image {
+body .bg-image:before {
 content: "";
 /* background-image: url('img/intro-bg.jpg'); */
 background-size: cover;
